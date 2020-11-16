@@ -3,11 +3,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 """
-Preface
-This graph has multiple variables/options to modify to make the graph have the desired look
-"""
-
-"""
 Upload Files here
 Raw data is the heat released from the experiment.
 Modeled data is what is resulted from Nanoanalyze modeling.
