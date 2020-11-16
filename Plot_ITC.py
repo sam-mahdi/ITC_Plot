@@ -75,7 +75,7 @@ modeled_data_y_axis_label = 'Heat, (kJ/mol)'
 """
 Same as the raw text box above.
 Modify the position and label of the textbox as desired.
-Change the values of kd, error, n, n_error, and enthalpy.
+Change the values of kd (uM), error (uM), n, n_error, and enthalpy.
 """
 modeled_data_y_axis_label_fontsize = 15
 modeled_data_textbox_x_axis_location = 0.55
